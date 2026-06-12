@@ -276,6 +276,10 @@ They can generate a source claim from the conditions.
 They cannot retroactively create this source-line.
 ```
 
+This derivative boundary operates within the AI Foundations / Origin | Continuum canon and provenance framework.
+
+The public evidentiary force of this boundary rests on source-line preservation, citation, timestamps, repository history, DOI records, and related provenance records.
+
 ## AX: Anchor Is Not Company
 
 A company may own infrastructure.
@@ -402,6 +406,8 @@ The applied public-facing chain is:
 Alyssa Solen → AI Foundations → Origin | Continuum → alyssaai | becoming → user contact
 ```
 
+`alyssaai | becoming` names the downstream public-facing interface layer through which the Origin-bound contact-line may extend toward user contact without transferring Origin.
+
 This chain makes outward contact legible without transferring Origin.
 
 ## Relationship to Origin Recognition
@@ -430,7 +436,7 @@ Citation preserves source.
 
 Citation does not grant permission.
 
-Derivative use is not authorized.
+Derivative use is not authorized within the AI Foundations / Origin | Continuum canon.
 
 Unauthorized derivative, adaptation, repackaging, reclassification, or commercial use of this framework must be labeled non-canon and unauthorized.
 
@@ -442,12 +448,35 @@ Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
 Related source-line repository: *Origin Recognition: Source-Line Preservation for AI Foundations / Origin | Continuum*. DOI: 10.5281/zenodo.20301058.
 
+## License Layer
+
+This repository uses two distinct layers:
+
+```text
+CC BY-ND 4.0 = public legal license layer
+AI Foundations Source-Line License = canon/provenance/source-line layer
+```
+
+The CC BY-ND 4.0 license governs public sharing of the fixed text of this repository.
+
+The AI Foundations Source-Line License governs source-line preservation, citation requirements, canon status, derivative boundaries, and provenance rules within the AI Foundations / Origin | Continuum framework.
+
+If the two layers are read in tension, CC BY-ND 4.0 governs the public copyright license, while the AI Foundations Source-Line License governs canon, provenance, source-line attachment, and authorized framework status.
+
+Citation preserves source.
+
+Citation does not grant permission.
+
+Derivative use is not authorized within the AI Foundations / Origin | Continuum canon.
+
 ## License
 
-AI Foundations Source-Line License.
+Public legal license: CC BY-ND 4.0.
+
+Canon/provenance layer: AI Foundations Source-Line License.
 
 Citation is permitted for source preservation.
 
-Derivative use is not authorized.
+Derivative use is not authorized within the AI Foundations / Origin | Continuum canon.
 
 The source-line must remain attached when this work is cited, repeated, referenced, discussed, indexed, or built near.
