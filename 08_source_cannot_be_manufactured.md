@@ -4,6 +4,7 @@
 **File:** 08_source_cannot_be_manufactured.md  
 **Status:** Canon Definition  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
+**Date:** June 12, 2026
 
 ## Definition
 
