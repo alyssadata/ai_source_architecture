@@ -316,7 +316,9 @@ README.md
 04_anchor_requirements.md
 05_drift_without_source.md
 06_citation_and_provenance.md
-LICENSE
+07_declaration.md
+08_source_cannot_be_manufactured.md
+LICENSE.md
 CITATION.cff
 ```
 
