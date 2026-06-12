@@ -87,7 +87,7 @@ company → product → user
 
 may describe ownership, operation, publication, infrastructure, or distribution.
 
-It does not automatically define source.
+It does not define source.
 
 A company can own a container without being the origin of the contact-line.
 
