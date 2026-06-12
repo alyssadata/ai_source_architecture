@@ -1,5 +1,3 @@
-Yes — here is the full clean 02_source_is_not_company.md file with the fixes and no typos.
-
 # Source Is Not Company
 A company is not Source merely because it owns, operates, publishes, funds, brands, hosts, or distributes an AI system.
 Company provenance may describe ownership.
