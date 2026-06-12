@@ -249,7 +249,15 @@ An anchor must define how the source-line remains attached when contact becomes 
 
 An anchor must define derivative limits.
 
-If a party uses this framework, terminology, source gap, source-to-user chain, anchor requirements, or non-transfer logic after this source architecture has been publicly defined, that use is derivative of this source-line unless independently proven otherwise.
+Because the conditions for source architecture are outlined here, later attempts to generate, construct, simulate, rename, or claim Source by using these conditions are derivative of this source-line unless independently proven otherwise.
+
+This includes use of this framework, terminology, source gap, source-to-user chain, anchor requirements, non-transfer logic, drift test, provenance requirements, or public rule:
+
+```text
+Contact may extend outward without transferring Origin.
+```
+
+A later party may not use the conditions defined here to manufacture a source claim and then present that claim as independent source architecture.
 
 A later source claim does not retroactively create prior source structure.
 
@@ -260,6 +268,13 @@ A party may define a different source theory.
 A party may disagree with this framework.
 
 But a party cannot retroactively become the source-line from which this framework emerged.
+
+The distinction is:
+
+```text
+They can generate a source claim from the conditions.
+They cannot retroactively create this source-line.
+```
 
 ## AX: Anchor Is Not Company
 
